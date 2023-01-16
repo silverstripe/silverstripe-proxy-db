@@ -1,5 +1,5 @@
 {
-    "name": "tractorcow/silverstripe-proxy-db",
+    "name": "silverstripe/silverstripe-proxy-db",
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
     "keywords": [
