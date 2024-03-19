@@ -1,6 +1,7 @@
-## Warning
+## Archived
 
-This is a temporary fork of `tractorcow/silverstripe-proxy-db`. Until we can get a CMS5 branch set up there.
+This was a fork of `tractorcow/silverstripe-proxy-db` used while waiting for a stable CMS 5 released to be tagged on that repository. That repository now has a stable tag so you should use that instead of this one.
+
 # Database proxy
 
 Ok, so you want to proxy the database.
